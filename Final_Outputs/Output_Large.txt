@@ -1,0 +1,209 @@
+On the 1 th level of Search Tree:
+---Considering adding the feature 0
+ Accuracy of feature 0is : 0.707
+ ---Considering adding the feature 1
+ Accuracy of feature 1is : 0.71
+ ---Considering adding the feature 2
+ Accuracy of feature 2is : 0.696
+ ---Considering adding the feature 3
+ Accuracy of feature 3is : 0.667
+ ---Considering adding the feature 4
+ Accuracy of feature 4is : 0.708
+ ---Considering adding the feature 5
+ Accuracy of feature 5is : 0.682
+ ---Considering adding the feature 6
+ Accuracy of feature 6is : 0.694
+ ---Considering adding the feature 7
+ Accuracy of feature 7is : 0.702
+ ---Considering adding the feature 8
+ Accuracy of feature 8is : 0.702
+ ---Considering adding the feature 9
+ Accuracy of feature 9is : 0.704
+ ---Considering adding the feature 10
+ Accuracy of feature 10is : 0.703
+ ---Considering adding the feature 11
+ Accuracy of feature 11is : 0.684
+ ---Considering adding the feature 12
+ Accuracy of feature 12is : 0.68
+ ---Considering adding the feature 13
+ Accuracy of feature 13is : 0.725
+ ---Considering adding the feature 14
+ Accuracy of feature 14is : 0.705
+ ---Considering adding the feature 15
+ Accuracy of feature 15is : 0.696
+ ---Considering adding the feature 16
+ Accuracy of feature 16is : 0.686
+ ---Considering adding the feature 17
+ Accuracy of feature 17is : 0.687
+ ---Considering adding the feature 18
+ Accuracy of feature 18is : 0.705
+ ---Considering adding the feature 19
+ Accuracy of feature 19is : 0.682
+ ---Considering adding the feature 20
+ Accuracy of feature 20is : 0.707
+ ---Considering adding the feature 21
+ Accuracy of feature 21is : 0.68
+ ---Considering adding the feature 22
+ Accuracy of feature 22is : 0.665
+ ---Considering adding the feature 23
+ Accuracy of feature 23is : 0.703
+ ---Considering adding the feature 24
+ Accuracy of feature 24is : 0.693
+ ---Considering adding the feature 25
+ Accuracy of feature 25is : 0.684
+ ---Considering adding the feature 26
+ Accuracy of feature 26is : 0.73
+ ---Considering adding the feature 27
+ Accuracy of feature 27is : 0.693
+ ---Considering adding the feature 28
+ Accuracy of feature 28is : 0.69
+ ---Considering adding the feature 29
+ Accuracy of feature 29is : 0.688
+ ---Considering adding the feature 30
+ Accuracy of feature 30is : 0.708
+ ---Considering adding the feature 31
+ Accuracy of feature 31is : 0.678
+ ---Considering adding the feature 32
+ Accuracy of feature 32is : 0.678
+ ---Considering adding the feature 33
+ Accuracy of feature 33is : 0.831
+ ---Considering adding the feature 34
+ Accuracy of feature 34is : 0.708
+ ---Considering adding the feature 35
+ Accuracy of feature 35is : 0.695
+ ---Considering adding the feature 36
+ Accuracy of feature 36is : 0.702
+ ---Considering adding the feature 37
+ Accuracy of feature 37is : 0.698
+ ---Considering adding the feature 38
+ Accuracy of feature 38is : 0.7
+ ---Considering adding the feature 39
+ Accuracy of feature 39is : 0.684
+ On Level 1 feature added was 33 to the current set 
+Current Feature Set: {33}Accuracy : 0.831
+On the 2 th level of Search Tree:
+---Considering adding the feature 0
+ Accuracy of feature 0is : 0.843
+ ---Considering adding the feature 1
+ Accuracy of feature 1is : 0.82
+ ---Considering adding the feature 2
+ Accuracy of feature 2is : 0.825
+ ---Considering adding the feature 3
+ Accuracy of feature 3is : 0.83
+ ---Considering adding the feature 4
+ Accuracy of feature 4is : 0.811
+ ---Considering adding the feature 5
+ Accuracy of feature 5is : 0.851
+ ---Considering adding the feature 6
+ Accuracy of feature 6is : 0.831
+ ---Considering adding the feature 7
+ Accuracy of feature 7is : 0.818
+ ---Considering adding the feature 8
+ Accuracy of feature 8is : 0.837
+ ---Considering adding the feature 9
+ Accuracy of feature 9is : 0.82
+ ---Considering adding the feature 10
+ Accuracy of feature 10is : 0.812
+ ---Considering adding the feature 11
+ Accuracy of feature 11is : 0.838
+ ---Considering adding the feature 12
+ Accuracy of feature 12is : 0.791
+ ---Considering adding the feature 13
+ Accuracy of feature 13is : 0.835
+ ---Considering adding the feature 14
+ Accuracy of feature 14is : 0.84
+ ---Considering adding the feature 15
+ Accuracy of feature 15is : 0.833
+ ---Considering adding the feature 16
+ Accuracy of feature 16is : 0.837
+ ---Considering adding the feature 17
+ Accuracy of feature 17is : 0.806
+ ---Considering adding the feature 18
+ Accuracy of feature 18is : 0.825
+ ---Considering adding the feature 19
+ Accuracy of feature 19is : 0.85
+ ---Considering adding the feature 20
+ Accuracy of feature 20is : 0.835
+ ---Considering adding the feature 21
+ Accuracy of feature 21is : 0.821
+ ---Considering adding the feature 22
+ Accuracy of feature 22is : 0.816
+ ---Considering adding the feature 23
+ Accuracy of feature 23is : 0.854
+ ---Considering adding the feature 24
+ Accuracy of feature 24is : 0.829
+ ---Considering adding the feature 25
+ Accuracy of feature 25is : 0.794
+ ---Considering adding the feature 26
+ Accuracy of feature 26is : 0.964
+ ---Considering adding the feature 27
+ Accuracy of feature 27is : 0.837
+ ---Considering adding the feature 28
+ Accuracy of feature 28is : 0.819
+ ---Considering adding the feature 29
+ Accuracy of feature 29is : 0.814
+ ---Considering adding the feature 30
+ Accuracy of feature 30is : 0.839
+ ---Considering adding the feature 31
+ Accuracy of feature 31is : 0.813
+ ---Considering adding the feature 32
+ Accuracy of feature 32is : 0.815
+ ---Considering adding the feature 34
+ Accuracy of feature 34is : 0.846
+ ---Considering adding the feature 35
+ Accuracy of feature 35is : 0.837
+ ---Considering adding the feature 36
+ Accuracy of feature 36is : 0.832
+ ---Considering adding the feature 37
+ Accuracy of feature 37is : 0.825
+ ---Considering adding the feature 38
+ Accuracy of feature 38is : 0.835
+ ---Considering adding the feature 39
+ Accuracy of feature 39is : 0.811
+ On Level 2 feature added was 26 to the current set 
+Current Feature Set: {33, 26}Accuracy : 0.964
+On the 3 th level of Search Tree:
+---Considering adding the feature 0
+ Accuracy of feature 0is : 0.922
+ ---Considering adding the feature 1
+ Accuracy of feature 1is : 0.938
+ ---Considering adding the feature 2
+ Accuracy of feature 2is : 0.918
+ ---Considering adding the feature 3
+ Accuracy of feature 3is : 0.928
+ ---Considering adding the feature 4
+ Accuracy of feature 4is : 0.933
+ ---Considering adding the feature 5
+ Accuracy of feature 5is : 0.921
+ ---Considering adding the feature 6
+ Accuracy of feature 6is : 0.927
+ ---Considering adding the feature 7
+ Accuracy of feature 7is : 0.941
+ ---Considering adding the feature 8
+ Accuracy of feature 8is : 0.923
+ ---Considering adding the feature 9
+ Accuracy of feature 9is : 0.923
+ ---Considering adding the feature 10
+ Accuracy of feature 10is : 0.932
+ ---Considering adding the feature 11
+ Accuracy of feature 11is : 0.932
+ ---Considering adding the feature 12
+ Accuracy of feature 12is : 0.931
+ ---Considering adding the feature 13
+ Accuracy of feature 13is : 0.935
+ ---Considering adding the feature 14
+ Accuracy of feature 14is : 0.925
+ ---Considering adding the feature 15
+ Accuracy of feature 15is : 0.917
+ ---Considering adding the feature 16
+ Accuracy of feature 16is : 0.922
+ ---Considering adding the feature 17
+ Accuracy of feature 17is : 0.919
+ ---Considering adding the feature 18
+ Accuracy of feature 18is : 0.92
+ ---Considering adding the feature 19
+ Accuracy of feature 19is : 0.937
+ ---Considering adding the feature 20
+ Accuracy of feature 20is : 0.925
+ ---Considering adding the feature 21
+ Best set of Features are : {26, 33} with accuracy: 0.964

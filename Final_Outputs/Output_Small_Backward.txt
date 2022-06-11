@@ -1,0 +1,141 @@
+On the 1 th level of Search Tree:
+---Considering dropping the feature 0
+ Accuracy after dropping feature 0 is : 0.7233333333333334
+ ---Considering dropping the feature 1
+ Accuracy after dropping feature 1 is : 0.74
+ ---Considering dropping the feature 2
+ Accuracy after dropping feature 2 is : 0.7233333333333334
+ ---Considering dropping the feature 3
+ Accuracy after dropping feature 3 is : 0.7266666666666667
+ ---Considering dropping the feature 4
+ Accuracy after dropping feature 4 is : 0.7566666666666667
+ ---Considering dropping the feature 5
+ Accuracy after dropping feature 5 is : 0.7533333333333333
+ ---Considering dropping the feature 6
+ Accuracy after dropping feature 6 is : 0.72
+ ---Considering dropping the feature 7
+ Accuracy after dropping feature 7 is : 0.68
+ ---Considering dropping the feature 8
+ Accuracy after dropping feature 8 is : 0.68
+ ---Considering dropping the feature 9
+ Accuracy after dropping feature 9 is : 0.7333333333333333
+ On Level 1 feature dropped was 4 from the current set 
+Current Feature Set: {0, 1, 2, 3, 5, 6, 7, 8, 9} Accuracy : 0.7566666666666667
+On the 2 th level of Search Tree:
+---Considering dropping the feature 0
+ Accuracy after dropping feature 0 is : 0.7433333333333333
+ ---Considering dropping the feature 1
+ Accuracy after dropping feature 1 is : 0.7666666666666667
+ ---Considering dropping the feature 2
+ Accuracy after dropping feature 2 is : 0.8133333333333334
+ ---Considering dropping the feature 3
+ Accuracy after dropping feature 3 is : 0.76
+ ---Considering dropping the feature 5
+ Accuracy after dropping feature 5 is : 0.7733333333333333
+ ---Considering dropping the feature 6
+ Accuracy after dropping feature 6 is : 0.7566666666666667
+ ---Considering dropping the feature 7
+ Accuracy after dropping feature 7 is : 0.7033333333333334
+ ---Considering dropping the feature 8
+ Accuracy after dropping feature 8 is : 0.71
+ ---Considering dropping the feature 9
+ Accuracy after dropping feature 9 is : 0.7433333333333333
+ On Level 2 feature dropped was 2 from the current set 
+Current Feature Set: {0, 1, 3, 5, 6, 7, 8, 9} Accuracy : 0.8133333333333334
+On the 3 th level of Search Tree:
+---Considering dropping the feature 0
+ Accuracy after dropping feature 0 is : 0.81
+ ---Considering dropping the feature 1
+ Accuracy after dropping feature 1 is : 0.7866666666666666
+ ---Considering dropping the feature 3
+ Accuracy after dropping feature 3 is : 0.7966666666666666
+ ---Considering dropping the feature 5
+ Accuracy after dropping feature 5 is : 0.8066666666666666
+ ---Considering dropping the feature 6
+ Accuracy after dropping feature 6 is : 0.77
+ ---Considering dropping the feature 7
+ Accuracy after dropping feature 7 is : 0.74
+ ---Considering dropping the feature 8
+ Accuracy after dropping feature 8 is : 0.7333333333333333
+ ---Considering dropping the feature 9
+ Accuracy after dropping feature 9 is : 0.81
+ On Level 3 feature dropped was 0 from the current set 
+Current Feature Set: {1, 3, 5, 6, 7, 8, 9} Accuracy : 0.81
+On the 4 th level of Search Tree:
+---Considering dropping the feature 1
+ Accuracy after dropping feature 1 is : 0.7966666666666666
+ ---Considering dropping the feature 3
+ Accuracy after dropping feature 3 is : 0.8166666666666667
+ ---Considering dropping the feature 5
+ Accuracy after dropping feature 5 is : 0.8133333333333334
+ ---Considering dropping the feature 6
+ Accuracy after dropping feature 6 is : 0.8
+ ---Considering dropping the feature 7
+ Accuracy after dropping feature 7 is : 0.7866666666666666
+ ---Considering dropping the feature 8
+ Accuracy after dropping feature 8 is : 0.7266666666666667
+ ---Considering dropping the feature 9
+ Accuracy after dropping feature 9 is : 0.8133333333333334
+ On Level 4 feature dropped was 3 from the current set 
+Current Feature Set: {1, 5, 6, 7, 8, 9} Accuracy : 0.8166666666666667
+On the 5 th level of Search Tree:
+---Considering dropping the feature 1
+ Accuracy after dropping feature 1 is : 0.8166666666666667
+ ---Considering dropping the feature 5
+ Accuracy after dropping feature 5 is : 0.8333333333333334
+ ---Considering dropping the feature 6
+ Accuracy after dropping feature 6 is : 0.8233333333333334
+ ---Considering dropping the feature 7
+ Accuracy after dropping feature 7 is : 0.75
+ ---Considering dropping the feature 8
+ Accuracy after dropping feature 8 is : 0.7033333333333334
+ ---Considering dropping the feature 9
+ Accuracy after dropping feature 9 is : 0.8333333333333334
+ On Level 5 feature dropped was 5 from the current set 
+Current Feature Set: {1, 6, 7, 8, 9} Accuracy : 0.8333333333333334
+On the 6 th level of Search Tree:
+---Considering dropping the feature 1
+ Accuracy after dropping feature 1 is : 0.86
+ ---Considering dropping the feature 6
+ Accuracy after dropping feature 6 is : 0.8733333333333333
+ ---Considering dropping the feature 7
+ Accuracy after dropping feature 7 is : 0.7666666666666667
+ ---Considering dropping the feature 8
+ Accuracy after dropping feature 8 is : 0.7133333333333334
+ ---Considering dropping the feature 9
+ Accuracy after dropping feature 9 is : 0.88
+ On Level 6 feature dropped was 9 from the current set 
+Current Feature Set: {1, 6, 7, 8} Accuracy : 0.88
+On the 7 th level of Search Tree:
+---Considering dropping the feature 1
+ Accuracy after dropping feature 1 is : 0.9066666666666666
+ ---Considering dropping the feature 6
+ Accuracy after dropping feature 6 is : 0.8833333333333333
+ ---Considering dropping the feature 7
+ Accuracy after dropping feature 7 is : 0.82
+ ---Considering dropping the feature 8
+ Accuracy after dropping feature 8 is : 0.7133333333333334
+ On Level 7 feature dropped was 1 from the current set 
+Current Feature Set: {6, 7, 8} Accuracy : 0.9066666666666666
+On the 8 th level of Search Tree:
+---Considering dropping the feature 6
+ Accuracy after dropping feature 6 is : 0.96
+ ---Considering dropping the feature 7
+ Accuracy after dropping feature 7 is : 0.84
+ ---Considering dropping the feature 8
+ Accuracy after dropping feature 8 is : 0.7166666666666667
+ On Level 8 feature dropped was 6 from the current set 
+Current Feature Set: {7, 8} Accuracy : 0.96
+On the 9 th level of Search Tree:
+---Considering dropping the feature 7
+ Accuracy after dropping feature 7 is : 0.8433333333333334
+ ---Considering dropping the feature 8
+ Accuracy after dropping feature 8 is : 0.7166666666666667
+ On Level 9 feature dropped was 7 from the current set 
+Current Feature Set: {8} Accuracy : 0.8433333333333334
+On the 10 th level of Search Tree:
+---Considering dropping the feature 8
+ Accuracy after dropping feature 8 is : 0.8
+ On Level 10 feature dropped was 8 from the current set 
+Current Feature Set: set() Accuracy : 0.8
+Best set of Features are : {7,8} with accuracy: 0.96

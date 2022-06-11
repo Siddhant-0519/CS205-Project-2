@@ -1,0 +1,61 @@
+On the 1 th level of Search Tree:
+---Considering adding the feature 0
+ Accuracy of feature 0is : 0.708
+ ---Considering adding the feature 1
+ Accuracy of feature 1is : 0.748
+ ---Considering adding the feature 2
+ Accuracy of feature 2is : 0.696
+ ---Considering adding the feature 3
+ Accuracy of feature 3is : 0.85
+ ---Considering adding the feature 4
+ Accuracy of feature 4is : 0.71
+ ---Considering adding the feature 5
+ Accuracy of feature 5is : 0.708
+ On Level 1 feature added was 3 to the current set 
+Current Feature Set: [3]Accuracy : 0.708
+On the 2 th level of Search Tree:
+---Considering adding the feature 0
+ Accuracy of feature 0is : 0.844
+ ---Considering adding the feature 1
+ Accuracy of feature 1is : 0.97
+ ---Considering adding the feature 2
+ Accuracy of feature 2is : 0.846
+ ---Considering adding the feature 4
+ Accuracy of feature 4is : 0.868
+ ---Considering adding the feature 5
+ Accuracy of feature 5is : 0.842
+ On Level 2 feature added was 1 to the current set 
+Current Feature Set: [3, 1]Accuracy : 0.842
+On the 3 th level of Search Tree:
+---Considering adding the feature 0
+ Accuracy of feature 0is : 0.936
+ ---Considering adding the feature 2
+ Accuracy of feature 2is : 0.914
+ ---Considering adding the feature 4
+ Accuracy of feature 4is : 0.948
+ ---Considering adding the feature 5
+ Accuracy of feature 5is : 0.944
+ On Level 3 feature added was 4 to the current set 
+Current Feature Set: [3, 1, 4]Accuracy : 0.944
+On the 4 th level of Search Tree:
+---Considering adding the feature 0
+ Accuracy of feature 0is : 0.89
+ ---Considering adding the feature 2
+ Accuracy of feature 2is : 0.908
+ ---Considering adding the feature 5
+ Accuracy of feature 5is : 0.896
+ On Level 4 feature added was 2 to the current set 
+Current Feature Set: [3, 1, 4, 2]Accuracy : 0.896
+On the 5 th level of Search Tree:
+---Considering adding the feature 0
+ Accuracy of feature 0is : 0.864
+ ---Considering adding the feature 5
+ Accuracy of feature 5is : 0.85
+ On Level 5 feature added was 0 to the current set 
+Current Feature Set: [3, 1, 4, 2, 0]Accuracy : 0.85
+On the 6 th level of Search Tree:
+---Considering adding the feature 5
+ Accuracy of feature 5is : 0.844
+ On Level 6 feature added was 5 to the current set 
+Current Feature Set: [3, 1, 4, 2, 0, 5]Accuracy : 0.844
+Best set of Features are : {1,3} with accuracy: 0.97
